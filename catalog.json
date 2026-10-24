@@ -68,6 +68,7 @@
     }
   ],
   "featured": [
+    "crimson-lines",
     "climbify-green",
     "raydub",
     "q50",
@@ -76,8 +77,208 @@
   ],
   "items": [
     {
+      "id": "pink-pop",
+      "name": "Pink Pop",
+      "subtitle": "Bodies turn hot pink on the kill",
+      "category": "killfx",
+      "author": "",
+      "version": "1.0",
+      "size": "24 KB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/pink-pop-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/pink-pop-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/pink-pop.zip",
+      "fileName": "Pink Pop.zip",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Unzip the download.",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app\\citizen\\common\\data\\timecycle and press Enter.",
+        "Copy the timecycle file(s) in and replace when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "killfx"
+      ]
+    },
+    {
+      "id": "white-ghost",
+      "name": "White Ghost",
+      "subtitle": "Bodies flash white on the kill",
+      "category": "killfx",
+      "author": "",
+      "version": "1.0",
+      "size": "24 KB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/white-ghost-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/white-ghost-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/white-ghost.zip",
+      "fileName": "White Ghost.zip",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Unzip the download.",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app\\citizen\\common\\data\\timecycle and press Enter.",
+        "Copy the timecycle file(s) in and replace when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "killfx"
+      ],
+      "badge": "NEW"
+    },
+    {
+      "id": "violet-haze",
+      "name": "Violet Haze",
+      "subtitle": "The screen washes violet on the kill",
+      "category": "killfx",
+      "author": "",
+      "version": "1.0",
+      "size": "21 KB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/violet-haze-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/violet-haze-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/violet-haze.zip",
+      "fileName": "Violet Haze.zip",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Unzip the download.",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app\\citizen\\common\\data\\timecycle and press Enter.",
+        "Copy the timecycle file(s) in and replace when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "killfx"
+      ]
+    },
+    {
+      "id": "red-black",
+      "name": "Red & Black",
+      "subtitle": "Red and black kill flash",
+      "category": "killfx",
+      "author": "",
+      "version": "1.0",
+      "size": "16 KB",
+      "updated": "2026-10-24",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/red-black.zip",
+      "fileName": "Red & Black.zip",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Unzip the download.",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app\\citizen\\common\\data\\timecycle and press Enter.",
+        "Copy the timecycle file(s) in and replace when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "killfx"
+      ]
+    },
+    {
+      "id": "purple-aura",
+      "name": "Purple Aura",
+      "subtitle": "Purple glow around players",
+      "category": "killfx",
+      "author": "",
+      "version": "1.0",
+      "size": "24 KB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/purple-aura-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/purple-aura-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/purple-aura.zip",
+      "fileName": "Purple Aura.zip",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Unzip the download.",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app\\citizen\\common\\data\\timecycle and press Enter.",
+        "Copy the timecycle file(s) in and replace when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "killfx"
+      ]
+    },
+    {
+      "id": "crimson-lines",
+      "name": "Crimson Lines",
+      "subtitle": "Red neon outlines light up the map",
+      "category": "killfx",
+      "author": "",
+      "version": "1.0",
+      "size": "352 KB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/crimson-lines-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/crimson-lines-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/crimson-lines.zip",
+      "fileName": "Crimson Lines.zip",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Unzip the download.",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app\\citizen\\common\\data\\timecycle and press Enter.",
+        "Copy the timecycle file(s) in and replace when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "killfx"
+      ],
+      "badge": "NEW"
+    },
+    {
+      "id": "chrome",
+      "name": "Chrome",
+      "subtitle": "Bodies turn chrome on the kill",
+      "category": "killfx",
+      "author": "",
+      "version": "1.0",
+      "size": "24 KB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/chrome-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/chrome-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/chrome.zip",
+      "fileName": "Chrome.zip",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Unzip the download.",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app\\citizen\\common\\data\\timecycle and press Enter.",
+        "Copy the timecycle file(s) in and replace when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "killfx"
+      ]
+    },
+    {
+      "id": "blue-static",
+      "name": "Blue Static",
+      "subtitle": "Blue glitch flash on every kill",
+      "category": "killfx",
+      "author": "",
+      "version": "1.0",
+      "size": "24 KB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/blue-static-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/blue-static-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/blue-static.zip",
+      "fileName": "Blue Static.zip",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Unzip the download.",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app\\citizen\\common\\data\\timecycle and press Enter.",
+        "Copy the timecycle file(s) in and replace when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "killfx"
+      ]
+    },
+    {
       "id": "op-graphics",
-      "name": "OP Graphics",
+      "name": "Noir",
       "subtitle": "Black-and-white sky with sharp, high-contrast visuals",
       "category": "graphics",
       "author": "",
@@ -87,7 +288,7 @@
       "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/op-graphics-preview.mp4",
       "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/op-graphics-thumb.jpg",
       "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/op-graphics.rar",
-      "fileName": "op.rar",
+      "fileName": "Noir.rar",
       "description": "",
       "install": [
         "Close FiveM.",
@@ -128,7 +329,7 @@
     },
     {
       "id": "66667",
-      "name": "66667",
+      "name": "Eye of the Storm",
       "subtitle": "Swirling storm sky with a cool blue-grey world",
       "category": "graphics",
       "author": "",
@@ -138,7 +339,7 @@
       "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/66667-preview.mp4",
       "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/66667-thumb.jpg",
       "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/66667.rar",
-      "fileName": "66667.rar",
+      "fileName": "Eye of the Storm.rar",
       "description": "",
       "install": [
         "Close FiveM.",
@@ -153,7 +354,7 @@
     },
     {
       "id": "34",
-      "name": "34",
+      "name": "Overcast",
       "subtitle": "Cloudy daylight sky with warm, natural colours",
       "category": "graphics",
       "author": "",
@@ -163,7 +364,7 @@
       "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/34-preview.mp4",
       "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/34-thumb.jpg",
       "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/34.rar",
-      "fileName": "34.rar",
+      "fileName": "Overcast.rar",
       "description": "",
       "install": [
         "Close FiveM.",
@@ -178,7 +379,7 @@
     },
     {
       "id": "raydub",
-      "name": "Raydub",
+      "name": "Gotham",
       "subtitle": "Golden Batman sky over the city",
       "category": "graphics",
       "author": "Raydub",
@@ -188,7 +389,7 @@
       "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/raydub-preview.mp4",
       "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/raydub-thumb.jpg",
       "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/raydub.rar",
-      "fileName": "Raydub- BATMAN.rar",
+      "fileName": "Gotham.rar",
       "description": "",
       "install": [
         "Close FiveM.",
@@ -203,7 +404,7 @@
     },
     {
       "id": "q50",
-      "name": "Q50",
+      "name": "Purple Daze",
       "subtitle": "Purple sky with a giant face in the clouds",
       "category": "graphics",
       "author": "",
@@ -213,7 +414,7 @@
       "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/q50-preview.mp4",
       "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/q50-thumb.jpg",
       "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/q50.rar",
-      "fileName": "Q50.rar",
+      "fileName": "Purple Daze.rar",
       "description": "",
       "install": [
         "Close FiveM.",
@@ -306,7 +507,7 @@
     },
     {
       "id": "9o",
-      "name": "9o",
+      "name": "Thunderhead",
       "subtitle": "Dark stormy sky with a clean grey PvP look",
       "category": "graphics",
       "author": "",
@@ -316,7 +517,7 @@
       "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/9o-preview.mp4",
       "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/9o-thumb.jpg",
       "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/9o.rar",
-      "fileName": "9o.rar",
+      "fileName": "Thunderhead.rar",
       "description": "",
       "install": [
         "Close FiveM.",
