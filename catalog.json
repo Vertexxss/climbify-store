@@ -1,0 +1,390 @@
+{
+  "categories": [
+    {
+      "id": "bundles",
+      "name": "Bundles",
+      "icon": "bundle",
+      "color": "#0a84ff"
+    },
+    {
+      "id": "graphics",
+      "name": "Graphics Packs",
+      "icon": "graphics",
+      "color": "#ff375f"
+    },
+    {
+      "id": "fps",
+      "name": "FPS Boost",
+      "icon": "fps",
+      "color": "#30d158"
+    },
+    {
+      "id": "soundfx",
+      "name": "Sound FX",
+      "icon": "sound",
+      "color": "#ff9f0a"
+    },
+    {
+      "id": "combat",
+      "name": "Combat Packs",
+      "icon": "combat",
+      "color": "#5e5ce6"
+    },
+    {
+      "id": "killfx",
+      "name": "Kill FX",
+      "icon": "skull",
+      "color": "#bf5af2"
+    },
+    {
+      "id": "bloodfx",
+      "name": "Blood FX",
+      "icon": "blood",
+      "color": "#ff453a"
+    },
+    {
+      "id": "tracers",
+      "name": "Tracers",
+      "icon": "tracers",
+      "color": "#e6a700"
+    },
+    {
+      "id": "crosshairs",
+      "name": "Crosshairs",
+      "icon": "crosshair",
+      "color": "#32ade6"
+    },
+    {
+      "id": "ragdolls",
+      "name": "Ragdolls",
+      "icon": "ragdoll",
+      "color": "#ac8e68"
+    },
+    {
+      "id": "maps",
+      "name": "Maps & Arenas",
+      "icon": "map",
+      "color": "#00c7be"
+    }
+  ],
+  "featured": [
+    "neon-killfx",
+    "brazil-graphics",
+    "ultimate-combat-bundle",
+    "realistic-soundfx"
+  ],
+  "items": [
+    {
+      "id": "ultimate-combat-bundle",
+      "name": "Ultimate Combat Bundle",
+      "subtitle": "Kill FX, blood, tracers and hit sounds in one pack",
+      "category": "bundles",
+      "badge": "POPULAR",
+      "author": "Climbify",
+      "version": "2.1",
+      "size": "10 MB",
+      "updated": "2026-10-21",
+      "video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4",
+      "url": "https://proof.ovh.net/files/10Mb.dat",
+      "fileName": "Ultimate-Combat-Bundle-sample.dat",
+      "description": "Everything you need for PvP in one download.\n\nSample item: swap the links in catalog.json for your real pack.",
+      "install": [
+        "Close FiveM.",
+        "Unzip the pack.",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app\\mods and press Enter.",
+        "Copy the .rpf files into that folder and start FiveM."
+      ],
+      "tags": [
+        "pvp",
+        "bundle",
+        "killfx",
+        "tracers"
+      ],
+      "sample": true
+    },
+    {
+      "id": "200fps-bundle",
+      "name": "200 FPS Bundle",
+      "subtitle": "Every FPS tweak we have, pre-configured",
+      "category": "bundles",
+      "author": "Climbify",
+      "version": "1.4",
+      "size": "1 MB",
+      "updated": "2026-10-12",
+      "video": "https://download.samplelib.com/mp4/sample-5s.mp4",
+      "url": "https://proof.ovh.net/files/1Mb.dat",
+      "fileName": "200FPS-Bundle-sample.dat",
+      "description": "Low-poly grass, no shadows and lighter particles.\n\nSample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "fps",
+        "performance",
+        "bundle"
+      ],
+      "sample": true
+    },
+    {
+      "id": "brazil-graphics",
+      "name": "Brazil Graphics",
+      "subtitle": "Warm, saturated colour grading",
+      "category": "graphics",
+      "badge": "NEW",
+      "author": "Climbify",
+      "version": "1.0",
+      "size": "10 MB",
+      "updated": "2026-10-23",
+      "video": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/360/Jellyfish_360_10s_1MB.mp4",
+      "url": "https://proof.ovh.net/files/10Mb.dat",
+      "fileName": "Brazil-Graphics-sample.dat",
+      "description": "Punchy colours and a sunny timecycle.\n\nSample item: swap the links in catalog.json for your real pack.",
+      "install": [
+        "Close FiveM.",
+        "Unzip the pack.",
+        "Copy the citizen folder into %localappdata%\\FiveM\\FiveM.app and replace files when asked."
+      ],
+      "tags": [
+        "graphics",
+        "timecycle",
+        "colour"
+      ],
+      "sample": true
+    },
+    {
+      "id": "realistic-graphics",
+      "name": "Realistic Pack",
+      "subtitle": "Natural lighting and sharper textures",
+      "category": "graphics",
+      "author": "Climbify",
+      "version": "3.0",
+      "size": "1 MB",
+      "updated": "2026-09-30",
+      "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "url": "https://proof.ovh.net/files/1Mb.dat",
+      "fileName": "Realistic-Pack-sample.dat",
+      "description": "Sample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "graphics",
+        "realistic"
+      ],
+      "sample": true
+    },
+    {
+      "id": "fivem-opti",
+      "name": "FiveM Opti",
+      "subtitle": "Smoother frames with fewer stutters",
+      "category": "fps",
+      "author": "Climbify",
+      "version": "1.2",
+      "size": "1 MB",
+      "updated": "2026-10-18",
+      "video": "https://download.samplelib.com/mp4/sample-10s.mp4",
+      "url": "https://proof.ovh.net/files/1Mb.dat",
+      "fileName": "FiveM-Opti-sample.dat",
+      "description": "Sample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "fps",
+        "optimization"
+      ],
+      "sample": true
+    },
+    {
+      "id": "realistic-soundfx",
+      "name": "Realistic Sound FX",
+      "subtitle": "Heavier guns, crisper hits",
+      "category": "soundfx",
+      "badge": "HOT",
+      "author": "Climbify",
+      "version": "1.1",
+      "size": "10 MB",
+      "updated": "2026-10-15",
+      "video": "https://test-videos.co.uk/vids/sintel/mp4/h264/360/Sintel_360_10s_1MB.mp4",
+      "url": "https://proof.ovh.net/files/10Mb.dat",
+      "fileName": "Realistic-SoundFX-sample.dat",
+      "description": "Sample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "sound",
+        "guns",
+        "audio"
+      ],
+      "sample": true
+    },
+    {
+      "id": "headshot-ding",
+      "name": "Headshot Ding",
+      "subtitle": "Clean hit sound on every headshot",
+      "category": "soundfx",
+      "author": "Climbify",
+      "version": "1.0",
+      "size": "1 MB",
+      "updated": "2026-08-02",
+      "url": "https://proof.ovh.net/files/1Mb.dat",
+      "fileName": "Headshot-Ding-sample.dat",
+      "description": "No preview video, so this one shows the category artwork.\n\nSample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "sound",
+        "hitsound"
+      ],
+      "sample": true
+    },
+    {
+      "id": "pvp-combat-pack",
+      "name": "PvP Combat Pack",
+      "subtitle": "Recoil-friendly weapon visuals",
+      "category": "combat",
+      "author": "Climbify",
+      "version": "1.0",
+      "size": "1 MB",
+      "updated": "2026-10-05",
+      "video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4",
+      "url": "https://proof.ovh.net/files/1Mb.dat",
+      "fileName": "PvP-Combat-Pack-sample.dat",
+      "description": "Sample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "combat",
+        "pvp",
+        "weapons"
+      ],
+      "sample": true
+    },
+    {
+      "id": "neon-killfx",
+      "name": "Neon Kill FX",
+      "subtitle": "Purple flash and particle burst on every kill",
+      "category": "killfx",
+      "badge": "NEW",
+      "author": "Climbify",
+      "version": "1.0",
+      "size": "10 MB",
+      "updated": "2026-10-24",
+      "video": "https://download.samplelib.com/mp4/sample-5s.mp4",
+      "url": "https://proof.ovh.net/files/10Mb.dat",
+      "fileName": "Neon-KillFX-sample.dat",
+      "description": "Sample item: swap the links in catalog.json for your real pack.",
+      "install": [
+        "Close FiveM.",
+        "Unzip the pack.",
+        "Copy the .rpf into %localappdata%\\FiveM\\FiveM.app\\mods.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "killfx",
+        "purple",
+        "particles"
+      ],
+      "sample": true
+    },
+    {
+      "id": "lightning-killfx",
+      "name": "Lightning Kill FX",
+      "subtitle": "Lightning strike where your target drops",
+      "category": "killfx",
+      "author": "Climbify",
+      "version": "1.3",
+      "size": "1 MB",
+      "updated": "2026-09-14",
+      "video": "https://test-videos.co.uk/vids/sintel/mp4/h264/360/Sintel_360_10s_1MB.mp4",
+      "url": "https://proof.ovh.net/files/1Mb.dat",
+      "fileName": "Lightning-KillFX-sample.dat",
+      "description": "Sample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "killfx",
+        "lightning"
+      ],
+      "sample": true
+    },
+    {
+      "id": "red-bloodfx",
+      "name": "Red Blood FX",
+      "subtitle": "Bigger, brighter blood splatter",
+      "category": "bloodfx",
+      "author": "Climbify",
+      "version": "2.0",
+      "size": "1 MB",
+      "updated": "2026-10-01",
+      "video": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+      "url": "https://proof.ovh.net/files/1Mb.dat",
+      "fileName": "Red-BloodFX-sample.dat",
+      "description": "Sample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "bloodfx",
+        "particles"
+      ],
+      "sample": true
+    },
+    {
+      "id": "purple-tracers",
+      "name": "Purple Tracers",
+      "subtitle": "Bright bullet trails you can follow",
+      "category": "tracers",
+      "author": "Climbify",
+      "version": "1.0",
+      "size": "1 MB",
+      "updated": "2026-10-10",
+      "video": "https://test-videos.co.uk/vids/jellyfish/mp4/h264/360/Jellyfish_360_10s_1MB.mp4",
+      "url": "https://proof.ovh.net/files/1Mb.dat",
+      "fileName": "Purple-Tracers-sample.dat",
+      "description": "Sample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "tracers",
+        "purple"
+      ],
+      "sample": true
+    },
+    {
+      "id": "dot-crosshair",
+      "name": "Dot Crosshair",
+      "subtitle": "Minimal dot for every weapon",
+      "category": "crosshairs",
+      "author": "Climbify",
+      "version": "1.0",
+      "size": "200 KB",
+      "updated": "2026-07-20",
+      "external": true,
+      "url": "https://example.com/",
+      "description": "This item uses \"external\": true, so GET opens the link in the user's browser instead of downloading in the app. Use this for MediaFire or Google Drive pages.\n\nSample item: swap the link in catalog.json for your real pack.",
+      "tags": [
+        "crosshair",
+        "dot"
+      ],
+      "sample": true
+    },
+    {
+      "id": "euphoria-ragdolls",
+      "name": "Euphoria Ragdolls",
+      "subtitle": "More realistic falls and reactions",
+      "category": "ragdolls",
+      "author": "Climbify",
+      "version": "1.1",
+      "size": "1 MB",
+      "updated": "2026-09-02",
+      "video": "https://download.samplelib.com/mp4/sample-10s.mp4",
+      "url": "https://proof.ovh.net/files/1Mb.dat",
+      "fileName": "Euphoria-Ragdolls-sample.dat",
+      "description": "Sample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "ragdoll",
+        "physics"
+      ],
+      "sample": true
+    },
+    {
+      "id": "ramps-arena",
+      "name": "Ramps Arena",
+      "subtitle": "Stunt ramps for 1v1s",
+      "category": "maps",
+      "author": "Climbify",
+      "version": "1.0",
+      "size": "10 MB",
+      "updated": "2026-10-08",
+      "video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4",
+      "url": "https://proof.ovh.net/files/10Mb.dat",
+      "fileName": "Ramps-Arena-sample.dat",
+      "description": "Sample item: swap the links in catalog.json for your real pack.",
+      "tags": [
+        "map",
+        "ramps",
+        "arena"
+      ],
+      "sample": true
+    }
+  ]
+}
