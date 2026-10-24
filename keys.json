@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "keys": [
+    {
+      "id": "8bf2af48d1b6a751a29f9ad6",
+      "salt": "xeQqgLzx0aTvXECdJ+O65g==",
+      "iv": "9Y6NZveSfikbahVA",
+      "wrap": "ZU8lKJBV6N7MaeNQoENXuQX1mAFmK46SSyil4F+isQPHUOQ48r4yYwvfneuS8vym"
+    }
+  ]
+}
