@@ -214,7 +214,7 @@
       "updated": "2026-10-24",
       "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/chrome-preview.mp4",
       "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/chrome-thumb.jpg",
-      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/chrome.cspk",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/chrome.zip",
       "fileName": "Chrome.zip",
       "description": "",
       "install": [
@@ -226,8 +226,7 @@
       ],
       "tags": [
         "killfx"
-      ],
-      "premium": true
+      ]
     },
     {
       "id": "blue-static",
