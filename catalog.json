@@ -68,12 +68,114 @@
     }
   ],
   "featured": [
+    "climbify-green",
     "raydub",
     "q50",
     "baby-clouds",
     "fineshyt"
   ],
   "items": [
+    {
+      "id": "op-graphics",
+      "name": "OP Graphics",
+      "subtitle": "Black-and-white sky with sharp, high-contrast visuals",
+      "category": "graphics",
+      "author": "",
+      "version": "1.0",
+      "size": "674 KB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/op-graphics-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/op-graphics-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/op-graphics.rar",
+      "fileName": "op.rar",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Right-click the .rar and choose Extract Here (needs WinRAR or 7-Zip).",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app and press Enter.",
+        "Copy the extracted folders (mods / citizen) in and replace files when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "graphics"
+      ]
+    },
+    {
+      "id": "climbify-green",
+      "name": "Climbify Green",
+      "subtitle": "Dark green wave sky, the Climbify look",
+      "category": "graphics",
+      "author": "Climbify",
+      "version": "1.0",
+      "size": "17 MB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/climbify-green-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/climbify-green-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/climbify-green.rar",
+      "fileName": "67.rar",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Right-click the .rar and choose Extract Here (needs WinRAR or 7-Zip).",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app and press Enter.",
+        "Copy the extracted folders (mods / citizen) in and replace files when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "graphics"
+      ],
+      "badge": "NEW"
+    },
+    {
+      "id": "66667",
+      "name": "66667",
+      "subtitle": "Swirling storm sky with a cool blue-grey world",
+      "category": "graphics",
+      "author": "",
+      "version": "1.0",
+      "size": "110 MB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/66667-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/66667-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/66667.rar",
+      "fileName": "66667.rar",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Right-click the .rar and choose Extract Here (needs WinRAR or 7-Zip).",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app and press Enter.",
+        "Copy the extracted folders (mods / citizen) in and replace files when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "graphics"
+      ]
+    },
+    {
+      "id": "34",
+      "name": "34",
+      "subtitle": "Cloudy daylight sky with warm, natural colours",
+      "category": "graphics",
+      "author": "",
+      "version": "1.0",
+      "size": "84 MB",
+      "updated": "2026-10-24",
+      "video": "https://github.com/Vertexxss/climbify-store/releases/download/packs/34-preview.mp4",
+      "thumbnail": "https://github.com/Vertexxss/climbify-store/releases/download/packs/34-thumb.jpg",
+      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/34.rar",
+      "fileName": "34.rar",
+      "description": "",
+      "install": [
+        "Close FiveM.",
+        "Right-click the .rar and choose Extract Here (needs WinRAR or 7-Zip).",
+        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app and press Enter.",
+        "Copy the extracted folders (mods / citizen) in and replace files when asked.",
+        "Start FiveM."
+      ],
+      "tags": [
+        "graphics"
+      ]
+    },
     {
       "id": "raydub",
       "name": "Raydub",
