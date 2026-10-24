@@ -153,29 +153,6 @@
       ]
     },
     {
-      "id": "red-black",
-      "name": "Red & Black",
-      "subtitle": "Red and black kill flash",
-      "category": "killfx",
-      "author": "",
-      "version": "1.0",
-      "size": "16 KB",
-      "updated": "2026-10-24",
-      "url": "https://github.com/Vertexxss/climbify-store/releases/download/packs/red-black.zip",
-      "fileName": "Red & Black.zip",
-      "description": "",
-      "install": [
-        "Close FiveM.",
-        "Unzip the download.",
-        "Press Win + R, type %localappdata%\\FiveM\\FiveM.app\\citizen\\common\\data\\timecycle and press Enter.",
-        "Copy the timecycle file(s) in and replace when asked.",
-        "Start FiveM."
-      ],
-      "tags": [
-        "killfx"
-      ]
-    },
-    {
       "id": "purple-aura",
       "name": "Purple Aura",
       "subtitle": "Purple glow around players",
